@@ -1,5 +1,7 @@
 # Awesome OpenTelekomCloud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## DEPRECATED We moved to https://github.com/opentelekomcloud-community/otc-awesome
+
 A curated list of awesome OpenTelekomCloud (OTC) guides, libraries, tools, and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) lists.
 
 ## Contents
